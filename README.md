@@ -1,4 +1,4 @@
-# DataStructures-and-Algorihtms-Project
+# DataStructures-and-Algorithms-Project
 
 ## Designing a city model using concepts of DSA.
-### Utilising concept of Graphs to construct layout of city with DFS, BFS for traversing. Hashing to secure information of citizens whereas comparing various sorting techniques for better retrieval of data. 
+### The project, part of a Data Structures and Algorithms course, focuses on designing a "Utopian City" where foundational needs like safety, work, transportation, healthcare, education, and industries are efficiently managed. Key functionalities include shortest path calculations using Floyd's and Dijkstra's algorithms, password hashing, building traversal, mock flood evacuation, sorting industries and restaurants, and generating minimum spanning trees. Techniques like BFS, DFS, Quick Sort, and Kruskal's algorithm were implemented. The project comprised 28 functions, 1,983 lines of code, and achieved zero errors with high team satisfaction. This hands-on project provided valuable insights into applying data structures and algorithms to solve real-world problems.
